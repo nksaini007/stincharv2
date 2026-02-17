@@ -8,9 +8,7 @@ function App() {
 
   return (
     <>
-     <p>
-      chlo kuch tufani krte h 
-     </p>
+      
     </>
   )
 }
